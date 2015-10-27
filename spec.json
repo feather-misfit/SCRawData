@@ -1,6 +1,5 @@
 {
 	"list":[
-		"https://raw.githubusercontent.com/feather-misfit/SCRawData/master/56210542f58b752d84000a8c.json",
-		"https://raw.githubusercontent.com/feather-misfit/SCRawData/master/561e484c47b56ba9ad007f24.json"
+		{"name":"charltonsoesanto@gmail.com","url":"https://dashboard.eng.misfit.com/loadByUser?uid=54979cb8fd792cef3b000fa2""}
 	]
 }
